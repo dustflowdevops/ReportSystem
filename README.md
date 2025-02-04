@@ -1,3 +1,18 @@
+# ReportSystem 
+
+The `ReportSystem' contract allows users to leave reports about people or transactions. Despite the decentralized nature of the blockchain, good reviews and deposits are not transferable. Therefore, people who regularly violate the terms of transactions or behave inappropriately will be disadvantaged to work with the platform and make deposits, as their reputation will be quickly ruined and the deposit will eventually become worthless.
+
+### Key Features
+
+### 1. Reporting system
+The `ReportSystem' contract allows members to leave feedback on people or transactions. These reviews can be used to establish trust and reputation, allowing other participants to make informed decisions about working with that person. Each report is permanently recorded on the blockchain, providing transparency and accountability.
+
+### 2. Reputation and trust management
+Although the blockchain is decentralized, a person's reputation is non-transferable. A user's positive or negative reputation is based on the reports left about them and plays a key role in determining their future opportunities on the platform. A person who constantly violates agreements or behaves inappropriately will quickly ruin their reputation, making it impossible to interact with other members and make a deposit.
+
+### 3. Irrevocable Deposits
+Since the deposit is based on real funds and recorded on the blockchain, it cannot be deleted or changed. This ensures that participants in the system are held accountable for their actions. If a user's reputation deteriorates, their deposit will become worthless, which emphasizes the importance of maintaining a good reputation in order to participate in the platform.
+
 # ReportSystem - RU
 
 Контракт `ReportSystem` позволяет пользователям оставлять отчеты о людях или сделках. Несмотря на децентрализованную природу блокчейна, хорошие отзывы и депозиты не могут быть переданы. Поэтому людям, которые регулярно нарушают условия сделок или ведут себя неадекватно, будет невыгодно работать с платформой и вносить депозит, так как их репутация будет быстро разрушена, а депозит в конечном итоге станет бесполезным.
